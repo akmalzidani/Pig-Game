@@ -1,5 +1,7 @@
 # Pig-Game
  Simple Fun Local Multiplayer Game created with HTML CSS and Vanilla Javascript
+ 
+Live demo : https://akmalzidani.github.io/Pig-Game/
 
 Aturan bermain :
 1. Yang berhasil mendapatkan poin 100 terlebih dahulu adalah pemenangnya 🏆
